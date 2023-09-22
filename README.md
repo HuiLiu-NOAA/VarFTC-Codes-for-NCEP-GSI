@@ -22,7 +22,7 @@ Add the forward operator of VarFTC and calculate OmB of AMV winds using the VarF
 gridmod.f90, intpw.f90, stpw.f90, m_wNode.F90:
 Add the tangent linear and adjoint codes for the VarFTC operator.
 
------ How to cite these codes ----
+----- Reference and how to cite these codes ----
 
 Hoffman et al. 2022, QJRMS, doi: 10.1002/qj.4207
 
