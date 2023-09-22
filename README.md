@@ -3,7 +3,7 @@ Brief description of the VarFTC codes in NOAA/NCEP Global_workflow v15.3:
 
 The VarFTC implementation in the GSI is based on Hoffman et al (2022). The original GSI related codes are modifdied to accormodate VarFTC.
 
-Specifically, The VarFTC forward, tangent linear, and adjoint codes are added into the GSI codes. The observation error specified to AMV winds are tuned down according to the STDV reduction of OmB RMSD by VarFTC. The VarFTC is applied to all AMV types.
+Specifically, the VarFTC forward, tangent linear, and adjoint codes are added into the GSI codes. The observation error specified to AMV winds are tuned down according to the STDV reduction of OmB RMSD by VarFTC. The VarFTC is applied to all AMV types.
 
 Contributors: Ross N. Hoffman, Hui Liu, Kayo Ide, Kevin Garrett, Katherine Lukens
 
