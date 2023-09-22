@@ -1,5 +1,5 @@
 # VarFTC-Codes-for-NCEP-GSI
-Brief description of the codes with VarFTC in NOAA/NCEP Global_workflow v15.3:
+Brief description of the VarFTC codes in NOAA/NCEP Global_workflow v15.3:
 
 The VarFTC implementation in the GSI is based on Hoffman et al (2022). The original GSI related codes are modifdied to accormodate VarFTC.
 
