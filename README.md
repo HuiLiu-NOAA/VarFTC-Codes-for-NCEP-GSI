@@ -11,6 +11,7 @@ It is shown that the VarFTC operator reduces the RMSD of OmB (by up to 10% varyi
 
 Contributors: Ross N. Hoffman, Hui Liu, Kayo Ide, Kevin Garrett, Katherine Lukens
 
+
 The code archive locations:
 
 https://github.com/HuiLiu-NOAA/VarFTC-Codes-for-NCEP-GSI
@@ -25,6 +26,7 @@ Add the forward operator of VarFTC and calculate OmB of AMV winds using the VarF
 
 gridmod.f90, intpw.f90, stpw.f90, m_wNode.F90:
 Add the tangent linear and adjoint codes for the VarFTC operator.
+
 
 
 ----- Reference and how to cite these codes ----
